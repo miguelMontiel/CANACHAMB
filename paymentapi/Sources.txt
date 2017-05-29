@@ -1,0 +1,7 @@
+Utilizar una API para realizar un pequeño carrito de compra para las membresias a vender.
+
+APIs:
+BanWire - API que puede ser utilizado directamente en el archivo HTML para realizar las compras.
+Paypal - API que puede ser utilizada directamente desde Word Press, sin embargo una desventaja seria el registro de una cuenta PayPal para
+realizar la transaccion. (Costo)
+WooCommerce - API que maneja las transacciones directamente desde WordPress (Costo)
